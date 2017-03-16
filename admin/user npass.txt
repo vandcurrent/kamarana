@@ -1,0 +1,11 @@
+master  / super admin:
+username :mrz@kamarana.com
+password : gabred
+
+admin:
+username :muhammad.rzafir@yahoo.com
+password : 123456
+
+
+
+nb: tambahin atau ganti aja user n pass nya.
